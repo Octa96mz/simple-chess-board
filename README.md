@@ -21,8 +21,9 @@ For example, if you want to create an 8x8 chessboard, you can execute the follow
 ```
 
 
-Output:
+## Output:
 
+```npm
 rojo azul rojo azul rojo azul rojo azul
 
 azul rojo azul rojo azul rojo azul rojo
@@ -38,7 +39,7 @@ azul rojo azul rojo azul rojo azul rojo
 rojo azul rojo azul rojo azul rojo azul
 
 azul rojo azul rojo azul rojo azul rojo
-
+```
 
 
 
