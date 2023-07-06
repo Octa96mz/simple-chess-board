@@ -1,6 +1,7 @@
 # simple-chess-board
 Based on a technical test that consists of creating a chessboard with "rojo" and "azul" but in diferent dimensions
 
+## Install
 
 1- Open a command line or terminal on your computer.
 
@@ -11,3 +12,24 @@ Based on a technical test that consists of creating a chessboard with "rojo" and
 For example, if you want to create an 8x8 chessboard, you can execute the following command:
 
 simple-chess-board 8
+
+Output:
+
+rojo azul rojo azul rojo azul rojo azul
+azul rojo azul rojo azul rojo azul rojo
+rojo azul rojo azul rojo azul rojo azul
+azul rojo azul rojo azul rojo azul rojo
+rojo azul rojo azul rojo azul rojo azul
+azul rojo azul rojo azul rojo azul rojo
+rojo azul rojo azul rojo azul rojo azul
+azul rojo azul rojo azul rojo azul rojo
+
+
+
+# Contributing
+
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [simple-chess-board](https://github.com/Octa96mz/simple-chess-board)
+
+# License
+
+simple-chess-board is released under the [MIT License](https://opensource.org/licenses/MIT).
