@@ -3,16 +3,18 @@ Based on a technical test that consists of creating a chessboard with "rojo" and
 
 ## Install
 
-1- Open a command line or terminal on your computer.
+Open a command line or terminal on your computer.
 
-2- Run 
+Run 
 
 ```npm
 npm install -g simple-chess-board
 ```
 
+# Usage
 
-3- Run the command to start the program, followed by a number that represents the dimension of the board you want to create.
+
+Run the command to start the program, followed by a number that represents the dimension of the board you want to create.
 
 For example, if you want to create an 8x8 chessboard, you can execute the following command:
 
