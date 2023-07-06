@@ -17,7 +17,7 @@ npm install -g simple-chess-board
 For example, if you want to create an 8x8 chessboard, you can execute the following command:
 
 ```bash
- simple-chess-board
+ simple-chess-board 8
 ```
 
 
