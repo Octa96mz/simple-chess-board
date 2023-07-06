@@ -7,7 +7,8 @@ Based on a technical test that consists of creating a chessboard with "rojo" and
 
 2- Run 
 
-```npm install g simple-chess-board
+```npm
+npm install -g simple-chess-board
 ```
 
 
@@ -15,8 +16,10 @@ Based on a technical test that consists of creating a chessboard with "rojo" and
 
 For example, if you want to create an 8x8 chessboard, you can execute the following command:
 
-```simple-chess-board 8
+```bash
+ simple-chess-board
 ```
+
 
 Output:
 
