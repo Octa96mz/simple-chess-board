@@ -16,13 +16,22 @@ simple-chess-board 8
 Output:
 
 rojo azul rojo azul rojo azul rojo azul
+
 azul rojo azul rojo azul rojo azul rojo
+
 rojo azul rojo azul rojo azul rojo azul
+
 azul rojo azul rojo azul rojo azul rojo
+
 rojo azul rojo azul rojo azul rojo azul
+
 azul rojo azul rojo azul rojo azul rojo
+
 rojo azul rojo azul rojo azul rojo azul
+
 azul rojo azul rojo azul rojo azul rojo
+
+
 
 
 
