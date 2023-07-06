@@ -1,5 +1,5 @@
 # simple-chess-board
-Based on a technical test that consists of creating a chessboard with "rojo" and "azul" but in diferent dimensions
+Based on a technical test that consists of creating a chessboard with "rojo" and "azul" instead of "white" and "black" but in diferent dimensions
 
 ## Install
 
