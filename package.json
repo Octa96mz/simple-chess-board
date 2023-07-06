@@ -1,6 +1,6 @@
 {
   "name": "simple-chess-board",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Based on a technical test that consists of creating a chessboard with diferent dimensions",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,7 @@
   },
   "homepage": "git@github.com:Octa96mz/simple-chess-board.git#readme",
   "bin": {
-    "simple-chess-board" : "./bin/global.js"
+    "simple-chess-board": "./bin/global.js"
   },
   "preferGlobal": true
 }
-
