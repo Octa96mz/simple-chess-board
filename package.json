@@ -1,0 +1,25 @@
+{
+  "name": "simple-chess-board",
+  "version": "1.0.0",
+  "description": "Based on a technical test that consists of creating a chessboard with diferent dimensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Octa96mz/simple-chess-board.git"
+  },
+  "keywords": [],
+  "author": "Octavio Montoya <Octa96mz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "git@github.com:Octa96mz/simple-chess-board.git/issues"
+  },
+  "homepage": "git@github.com:Octa96mz/simple-chess-board.git#readme",
+  "bin": {
+    "simple-chess-board" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
+
